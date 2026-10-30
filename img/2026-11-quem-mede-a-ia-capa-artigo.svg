@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="644" viewBox="0 0 1200 644" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">
+<rect width="1200" height="644" fill="#0f2a3d"/>
+<rect width="14" height="644" fill="#f4b942"/>
+<text x="70" y="140" font-size="26" font-weight="700" letter-spacing="3" fill="#f4b942">GESTÃO DE TI E IA</text>
+<text x="70" y="262" font-size="76" font-weight="700" fill="#ffffff">Quem mede</text>
+<text x="70" y="352" font-size="76" font-weight="700" fill="#f4b942">a IA?</text>
+<text x="70" y="425" font-size="30" fill="#cfe3f0">Antes de ligar a próxima, defina o</text>
+<text x="70" y="467" font-size="30" fill="#cfe3f0">dono, o custo e o indicador.</text>
+<!-- painel -->
+<rect x="690" y="110" width="400" height="300" rx="26" fill="#1b4560"/>
+<rect x="720" y="140" width="340" height="240" rx="16" fill="#0f2a3d"/>
+<!-- gauge vazio -->
+<path d="M 770 320 A 100 100 0 0 1 970 320" fill="none" stroke="#2c5b78" stroke-width="22" stroke-linecap="round"/>
+<line x1="870" y1="320" x2="790" y2="320" stroke="#ffffff" stroke-width="6" stroke-linecap="round" opacity="0.0"/>
+<circle cx="870" cy="320" r="10" fill="#f4b942"/>
+<text x="870" y="360" font-size="22" text-anchor="middle" fill="#cfe3f0">0 dados</text>
+<rect x="745" y="165" width="120" height="14" rx="7" fill="#2c5b78"/>
+<rect x="745" y="190" width="80" height="14" rx="7" fill="#2c5b78"/>
+<!-- robo -->
+<rect x="1000" y="195" width="62" height="52" rx="12" fill="#f4b942"/>
+<rect x="1010" y="207" width="12" height="12" rx="6" fill="#0f2a3d"/>
+<rect x="1040" y="207" width="12" height="12" rx="6" fill="#0f2a3d"/>
+<rect x="1017" y="228" width="28" height="6" rx="3" fill="#0f2a3d"/>
+<line x1="1031" y1="195" x2="1031" y2="180" stroke="#f4b942" stroke-width="5"/>
+<circle cx="1031" cy="176" r="7" fill="#f4b942"/>
+<!-- ponto de interrogação -->
+<circle cx="910" cy="530" r="62" fill="none" stroke="#f4b942" stroke-width="10"/>
+<text x="910" y="556" font-size="84" font-weight="700" text-anchor="middle" fill="#ffffff">?</text>
+</svg>
